@@ -1,0 +1,12 @@
+#container{
+    display: flex;
+    justify-content: center;
+}
+
+.item{
+    background-color: #f4f4f4;
+    border: #cccccc solid 1px;
+    text-align: center;
+    margin: 0.5rem;
+    flex-basis: 200px;
+}
